@@ -2,12 +2,12 @@
   background: var(--cor-11);
 }
 .seguros {
-  padding-top: 50px;
-  padding-bottom: 50px;
+  padding-top: 60px;
+  padding-bottom: 60px;
   display: grid;
   align-items: center;
   grid-template-columns: 1fr 1fr 1fr;
-  gap: 40px;
+  gap: 40px
 }
 
 .seguros h2 {
@@ -16,22 +16,21 @@
 
 .seguros-item {
   background-color: var(--cor-12);
-  padding: 32px 32px 32px 60px;
+  padding: 32px 32px 32px 70px;
   display: grid;
   grid-template-columns: 1fr auto;
 }
 
-.seguros h3 {
+.seguros-item h3 {
   margin-bottom: 40px;
 }
 .seguros-item span {
-  grid-column: 2;
   display: block;
   text-align: right;
 }
 
 .seguros-item ul {
-  grid-template-columns: 1/-1;
+  grid-column: 1/-1;
   margin-bottom: 32px;
 }
 
