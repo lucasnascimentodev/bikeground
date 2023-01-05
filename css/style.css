@@ -21,6 +21,9 @@
 @import "/css/bibicletas/bicicletas-lista.css";
 @import "/css/bibicletas/bicicletas.css";
 
+/* Orcamento */
+@import "/css/orcamento/orcamento.css";
+
 /* Seguros */
 @import "/css/seguros/seguros.css";
 @import "/css/seguros/perguntas.css";
