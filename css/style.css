@@ -1,36 +1,36 @@
-@import "./global/global.css";
-@import "./utilidades/tipografia.css";
-@import "./utilidades/cores.css";
+@import "https://lucasnascimentodev.github.io/bikeground//global/global.css";
+@import "https://lucasnascimentodev.github.io/bikeground//utilidades/tipografia.css";
+@import "https://lucasnascimentodev.github.io/bikeground//utilidades/cores.css";
 
-@import "./global/header.css";
-@import "./global/footer.css";
+@import "https://lucasnascimentodev.github.io/bikeground//global/header.css";
+@import "https://lucasnascimentodev.github.io/bikeground//global/footer.css";
 
 /* Utilidades */
-@import "./utilidades/componentes.css";
-@import "./utilidades/formulario.css";
+@import "https://lucasnascimentodev.github.io/bikeground//utilidades/componentes.css";
+@import "https://lucasnascimentodev.github.io/bikeground//utilidades/formulario.css";
 
 /* Home */
-@import "./home/introducao.css";
-@import "./home/tecnologia.css";
-@import "./home/depoimento.css";
+@import "https://lucasnascimentodev.github.io/bikeground//home/introducao.css";
+@import "https://lucasnascimentodev.github.io/bikeground//home/tecnologia.css";
+@import "https://lucasnascimentodev.github.io/bikeground//home/depoimento.css";
 
 /* Bike */
-@import "/css/bike/bicicleta.css";
+@import "https://lucasnascimentodev.github.io/bikeground/css/bike/bicicleta.css";
 
 /* Bicicletas */
-@import "/css/bibicletas/bicicletas-lista.css";
-@import "/css/bibicletas/bicicletas.css";
+@import "https://lucasnascimentodev.github.io/bikeground/css/bibicletas/bicicletas-lista.css";
+@import "https://lucasnascimentodev.github.io/bikeground/css/bibicletas/bicicletas.css";
 
 /* Orcamento */
-@import "/css/orcamento/orcamento.css";
+@import "https://lucasnascimentodev.github.io/bikeground/css/orcamento/orcamento.css";
 
 /* Seguros */
-@import "/css/seguros/seguros.css";
-@import "/css/seguros/perguntas.css";
+@import "https://lucasnascimentodev.github.io/bikeground/css/seguros/seguros.css";
+@import "https://lucasnascimentodev.github.io/bikeground/css/seguros/perguntas.css";
 
 /* Contato */
-@import "/css/contato/faleconosco.css";
-@import "/css/contato/lojas.css";
+@import "https://lucasnascimentodev.github.io/bikeground/css/contato/faleconosco.css";
+@import "https://lucasnascimentodev.github.io/bikeground/css/contato/lojas.css";
 
 /* Termos */
-@import "/css/termos/termos.css";
+@import "https://lucasnascimentodev.github.io/bikeground/css/termos/termos.css";
