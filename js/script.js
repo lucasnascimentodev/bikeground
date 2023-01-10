@@ -7,7 +7,6 @@ function ativarProduto(parametro) {
   if (elemento) {
     elemento.checked = true;
   }
-  π;
 }
 
 parametros.forEach(ativarProduto);
